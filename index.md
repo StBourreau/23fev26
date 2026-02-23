@@ -5,14 +5,12 @@ in_menu: true
 ---
 # Pour tester
 
-### Never stop learning, because life never stops teaching.
-
 #### Never stop learning, because life never stops teaching.
 
 <table style="width:100%; vertical-align:middle; text-align:center;">
 
-  <tr style="border: 1px solid black;  border-collapse: collapse;">
-     <td style="border: 1px solid black;  border-collapse: collapse;"><div style="vertical-align:middle; text-align:center;"><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
+  <tr style="border: 0px;  border-collapse: collapse;">
+     <td style="border: 0px;  border-collapse: collapse;"><div style="vertical-align:middle; text-align:center;"><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
 style="display: inherit;"
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
