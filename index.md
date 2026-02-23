@@ -4,9 +4,26 @@ order: 0
 in_menu: true
 ---
 # Pour tester
-Et voir si ça peut être utile !
+## Pour tester
 
-Never stop learning, because life never stops teaching.
+### Never stop learning, because life never stops teaching.
+
+<table style="width:100%;border: 0px;">
+
+  <tr>
+    <td><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
+  src="images/Couverture Quantique autrement.png"
+  alt="Couverture du hors série du Monde consacré à la quantique sans équations"
+  width="80" /></a> </td>
+    <td>Autre Contenu</td>
+    <td>Encore un autre</td>
+  </tr>
+  <tr>
+    <td>Sur une deuxième ligne</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
 
 <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
   src="images/Couverture Quantique autrement.png"
