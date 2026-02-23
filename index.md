@@ -8,19 +8,15 @@ Et voir si ça peut être utile !
 
 Never stop learning, because life never stops teaching.
 
-<img
-  src="images/Couverture Quantique autrement.png"
-  alt="Couverture du hors série du Monde consacré à la quantique sans équations"
-  width="50"
-  height="80" />
+<a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">
 
 <img
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
-  width="80" />
+  width="80" /></a> 
 
 Du texte en dessous.
 
 Est-ce qu'on peut transformer une image en lien ? Ce serait bien !!!
 
-![Texte décrivant l'image]({% link images/Couverture Quantique autrement.png %}) 
+C'est ce que j'ai essayé de faire ci-dessus ! Clique sur la couverture ! 
