@@ -8,13 +8,13 @@ in_menu: true
 
 ### Never stop learning, because life never stops teaching.
 
-<table style="center; width:100%;border: 0px;">
+<table style="text-align:center; width:100%;border: 0px;">
 
   <tr>
     <td><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
-  width="80" /></a> </br> LA QUANTIQUE AUTREMENT</td>
+  width="80" /></a> <br> LA QUANTIQUE AUTREMENT</td>
     <td>Autre Contenu</td>
     <td>Encore un autre</td>
   </tr>
