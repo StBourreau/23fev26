@@ -8,7 +8,7 @@ in_menu: true
 
 ### Never stop learning, because life never stops teaching.
 
-<table style="text-align:center; width:100%;border: 0px;">
+<table style="width:100%;border: 1px;  border-collapse: collapse;">
 
   <tr>
      <td style="vertical-align:middle; text-align:center;"><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
