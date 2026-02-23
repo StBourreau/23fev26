@@ -11,7 +11,7 @@ in_menu: true
 <table style="text-align:center; width:100%;border: 0px;">
 
   <tr>
-    <td><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
+     <td style="vertical-align:middle; text-align:center;"><a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
   width="80" /></a> <br> LA QUANTIQUE AUTREMENT</td>
@@ -25,16 +25,6 @@ in_menu: true
   </tr>
 </table>
 
-<a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html"><img
-  src="images/Couverture Quantique autrement.png"
-  alt="Couverture du hors série du Monde consacré à la quantique sans équations"
-  width="80" /></a> 
+Les liens sont présentés dans un tableau.
 
-Du texte en dessous.
-<a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Lien par le texte : quantique autrement</a> 
-
-Est-ce qu'on peut transformer une image en lien ? Ce serait bien !!!
-
-<a href="URL"><img src="URL_Image" alt="Texte alternatif"></a> 
-
-C'est ce que j'ai essayé de faire ci-dessus ! Clique sur la couverture ! 
+Ce serait plus "responsive" dans des div flottantes !!! 
