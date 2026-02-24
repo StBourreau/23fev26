@@ -62,4 +62,4 @@ https://stbourreau.github.io/23fev26/ix%20l’intrication.html
 
 https://stbourreau.github.io/23fev26/ix%20l’intrication.html
 
-<a href="https://stbourreau.github.io/23fev26/ix%20l'intrication.html">← IX. L'intrication</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/xi%20les%20gaz%20de%20fermions%20et%20de%20bosons.html">XI. Les gaz de fermions et de bosons→</a> 
+<a href="https://stbourreau.github.io/23fev26/ix%20l’intrication.html">← IX. L'intrication</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/xi%20les%20gaz%20de%20fermions%20et%20de%20bosons.html">XI. Les gaz de fermions et de bosons→</a> 
