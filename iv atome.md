@@ -1,7 +1,7 @@
 ---
 title: "IV. Atome"
 order: 4
-in_menu: false
+in_menu: true
 ---
 Il n’y a pas d’accord sur l’illustration permettant de rendre compréhensible un atome.
 
@@ -15,7 +15,10 @@ Le noyau est constitué d’un simple proton, mesurant un millionième de millia
 
 Si on excite cet atome avec un rayon laser bien choisi, l’électron saute soudainement à une énergie plus élevée et sa fonction d’onde change brutalement pour adopter une nouvelle forme. Le nuage formé par l’électron devient plus gros. Cette sphère n’est pas simplement une trace du mouvement de l’électron autour du noyau. C’est plutôt la carte des possibles. Si on pouvait mesurer cet électron on le retrouverait quelque part dans cette sphère.
 
-![Trois representations de l'atome.png]({% link images/Trois representations de l'atome.png %})
+<img
+  src="images/Trois representations de l'atome.png"
+  alt="Trois représentations de l'atome d'hydrogène"
+  width="400"/>
 
 Au début de la quantique, le modèle planétaire (ici pour un atome d'hydrogène) a dû être abandonné au profit d'un modèle à orbites, le modèle de Bohr. Puis, celui-ci a laissé place à notre vision actuelle de l'atome ou l'électron occupe tout un volume autour du noyau avec sa fonction d'onde quantique.
 ### <font style="color:orange; font-size:1.0em">Un atome plus complexe : le carbone</font>
@@ -26,9 +29,12 @@ Toutes les formes possibles des électrons peuvent être calculées, de la plus 
 Ces fonctions d’ondes archétypales sont appelées des orbitales. Elles sont regroupées en grande famille : les sphères surnommées « s », les double lobe appelés « p », les quadruples lobes appelés « d ». Ces volumes constituent le seul et unique, dictionnaire permettant de concevoir tous les atomes. Chaque atome possède un numéro atomique égal au nombre d’électrons et donc au nombre de protons de son noyau. Pour construire n’importe quel atome, il faut suivre une règle unique : piocher les fonctions d’onde de ses électrons dans le catalogue unique, fourni par l’équation Schrödinger, en partant de la plus basse, énergie et en d’un cran tous les deux électrons pour respecter le principe d’exclusion de Pauli (deux électrons de différents peuvent avoir la même forme, mais pas plus). Les électrons ne s’empilent pas les uns à côté des autres ou les uns au-dessus des autres comme les couches d’un oignon. Les électrons se mettent les uns dans les autres. Ils s’interpénètrent au même endroit comme des nuages qui se mélangeraient. Voilà pourquoi l’atome est un enfer à représenter.
 Exemple : l’atome de carbone
 Voici finalement ce à quoi ressemble véritablement un atome, ici l'atome de carbone.
-Ses 6 électrons s'interpénètrent les uns les autres, avec différentes formes d'orbitales. I
-![Représentation atome carbone.png]({% link images/Représentation atome carbone.png %})
+Ses 6 électrons s'interpénètrent les uns les autres, avec différentes formes d'orbitales.
 
+<img
+  src="images/Représentation atome carbone.png"
+  alt="Représentation de l'atome de carbone"
+  width="400"/>
 L’atome d’or comporte 79 électrons. Il faudrait représenter 79 orbitales à peu près de la même taille les unes dans les autres.
 
 C’est la raison pour laquelle la taille des atomes ne varie pas beaucoup entre les plus légers et les plus lourds. Si les électrons s’empilaient simplement, un atome d’or devrait être au moins 10 fois plus gros qu’un atome de carbone. Pourtant, il n’est que deux fois plus gros : sa taille, et celle de son plus gros électron.
