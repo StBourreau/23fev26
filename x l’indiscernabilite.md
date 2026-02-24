@@ -58,8 +58,4 @@ Quelques années après la prédiction de Wiczek, dans des semi-conducteurs où 
 Microsoft a conçu récemment un ordinateur quantique qui reposerait sur des canyons et certaines de leurs propriétés topologiques. Les angons seraient robustes et donc plus fiables que les composants habituellement utilisés.
 La physique quantique fait que, longtemps concurrentes, physique et chimie sont devenues une seule et même discipline.
 
-https://stbourreau.github.io/23fev26/ix%20l’intrication.html
-
-https://stbourreau.github.io/23fev26/ix%20l’intrication.html
-
-<a href="https://stbourreau.github.io/23fev26/ix%20l’intrication.html">← IX. L'intrication</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/xi%20les%20gaz%20de%20fermions%20et%20de%20bosons.html">XI. Les gaz de fermions et de bosons→</a> 
+<a href="https://https://stbourreau.github.io/23fev26/ix%20l’intrication.html">← IX. L'intrication</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/xi%20les%20gaz%20de%20fermions%20et%20de%20bosons.html">XI. Les gaz de fermions et de bosons→</a> 
