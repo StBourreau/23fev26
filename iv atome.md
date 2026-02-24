@@ -35,6 +35,7 @@ Ses 6 électrons s'interpénètrent les uns les autres, avec différentes formes
   src="images/Représentation atome carbone.png"
   alt="Représentation de l'atome de carbone"
   width="400"/>
+
 L’atome d’or comporte 79 électrons. Il faudrait représenter 79 orbitales à peu près de la même taille les unes dans les autres.
 
 C’est la raison pour laquelle la taille des atomes ne varie pas beaucoup entre les plus légers et les plus lourds. Si les électrons s’empilaient simplement, un atome d’or devrait être au moins 10 fois plus gros qu’un atome de carbone. Pourtant, il n’est que deux fois plus gros : sa taille, et celle de son plus gros électron.
