@@ -32,5 +32,6 @@ L'herbertsmithite est un minéral découvert au Chili en 1970. Il contient des a
 Chaque cuivre possède un spin. Chacun des spin se place en état de superposition d'états avec son voisin, l'un vers le haut, l'autre vers le bas et l'inverse à la fois. Par ailleurs il semble que le solide ne décide pas quels spins visons forment les paires, chaque spin choisissant à la fois son voisin de gauche et son voisin de droite. Toutes es configurations de paires possibles coexisteraient. Ce ne seraient plus deux, trois ou quatre spins, mais une assemblée de milliards de spins qui seraient dans une superposition géante. Cet objet magnétique s'appelle un liquide de spin, car même au zéro absolu, les spins refusent de s'immobiliser et optent pour cet état quantique extrême.
 Les progrès techniques permettent de provoquer et de contrôler précisément la superposition.
 
-<a href = "https://stbourreau.github.io/23fev26/vii%20mesure%20et%20decoherence. html">← VII. Mesure et décohérence</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href ="https://stbourreau.github.io/23fev26/ix%20l’intrication.html">
+<a href ="https://stbourreau.github.io/23fev26/vii%20mesure%20et%20decoherence.html">← VII. Mesure et décohérence</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href ="
+https://stbourreau.github.io/23fev26/ix%20l’intrication.html">
 IX. L’intrication → </a> 
