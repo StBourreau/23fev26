@@ -17,7 +17,7 @@ Si on excite cet atome avec un rayon laser bien choisi, l’électron saute soud
 
 ![Trois representations de l'atome.png]({% link images/Trois representations de l'atome.png %})
 
->Au début de la quantique, le modèle planétaire (ici pour un atome d'hydrogène) a dû être abandonné au profit d'un modèle à orbites, le modèle de Bohr. Puis, celui-ci a laissé place à notre vision actuelle de l'atome ou l'électron occupe tout un volume autour du noyau avec sa fonction d'onde quantique.
+Au début de la quantique, le modèle planétaire (ici pour un atome d'hydrogène) a dû être abandonné au profit d'un modèle à orbites, le modèle de Bohr. Puis, celui-ci a laissé place à notre vision actuelle de l'atome ou l'électron occupe tout un volume autour du noyau avec sa fonction d'onde quantique.
 ### <font style="color:orange; font-size:1.0em">Un atome plus complexe : le carbone</font>
 Son noyau comporte six protons et six neutrons. Autour se trouve six électrons. Pour déterminer la forme de chaque électron, il faut résoudre l’équation de Schrödinger. Les électrons sont négatifs et interagissent entre-eux et de ce fait le calcul devient bien plus compliqué, trop pour être résolu. On ne dispose toujours pas de solution exacte de l’équation de Schrödinger pour un atome de carbone ! Pour simplifier les physiciens, suppose que chaque électron ne voit, en plus du noyau, qu’une espèce de gros nuages, formé par les cinq autres électrons.
 
@@ -38,6 +38,7 @@ Comme la construction d’un atome suit toujours les mêmes règles et utilise t
 Le catalogue limité de formes d’électrons autorise une variété d’atomes très importante qui est responsable de la richesse et de la diversité extraordinaire du monde. En fait, c’est le tout dernier des électrons de chaque atome qui lui confère l’essentiel de ses propriétés et le distingue des autres. Par exemple l’hélium est un gaz inerte incolore presque indétectable. L’atome suivant dans le tableau périodique est le lithium. Il a un noyau un peu plus massif et chargé et surtout un électron en plus. C’est cet électron supplémentaire qui rend le lithium, solide, métallique et hyper réactif. La forme de l’orbitale du dernier électron influence aussi la façon qu’aura atome de s’accrocher à ses voisins pour former les molécules. C’est la diversité des orbitales et des façons de les accrocher entre elles, qui qui autorise la variété, des matériaux : des liquides, des gaz ou des solides ; des métaux, des isolants, des objets durs, mois, des couleurs, du brillant, du transparent, du magnétique, etc.
 
 Si on cherche à mesurer un électron pour vérifier la forme de son orbitale, il se réduit soudainement en un point.
+
 <a href="https://stbourreau.github.io/23fev26/iii%20quantification">← III. Quantification</a>
  — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — 
 <a href="https://stbourreau.github.io/23fev26/v%20principe%20d’incertitude.html"> V. Principe d'incertitude →</a> 
