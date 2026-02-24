@@ -15,4 +15,7 @@ La quantification est profondément ancrée dans les maths qui gouvernent la qua
 
 Pour qu’une particule échappe à la quantification il faut qu’elle soit complètement libre (dans l’espace intersidéral par exemple) : elle peut alors prendre n’importe qu’elle énergie, tout en restant quantique.
 
-Quantique signifie souvent quantification mais pas toujours ! 
+Quantique signifie souvent quantification mais pas toujours !
+<a href="https://stbourreau.github.io/23fev26/i%20dualite%20onde–particules%20–%20ii%20fonction%20d’onde%20ψ%20-psi-.html">← I. Dualité onde-particules - II. Fonction d'onde 4 (psi)</a>
+ — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — 
+<a href="https://stbourreau.github.io/23fev26/iv%20atome.html"> IV. Atome →</a> 
