@@ -1,5 +1,5 @@
 ---
-title: "La superposition d’états"
+title: "VIII. La superposition d’états"
 order: 11
 in_menu: true
 ---
