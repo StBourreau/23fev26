@@ -17,7 +17,7 @@ Serge Haroche a montré que plus les objets avec lesquels la particule interagit
 
 Le moindre désordre ou la moindre interaction suffisent à provoquer la décohérence : variation de champ électrique, modification de l’environnement, excitation par des lasers (Wineland en 2000).
 
->### <font style="color:orange; font-size:1.0em">Pourquoi nous ne sommes pas quantiques</font>
+### <font style="color:orange; font-size:1.0em">Pourquoi nous ne sommes pas quantiques</font>
 Pour que cela se produise, il faudrait que tous nos atomes se mettent « à l’unisson » sous forme d’onde. Cela n’arrive pas car la chaleur produite par notre corps, son grand nombre d’atomes, et leurs mouvements incessants provoquent la décohérence et empêchent toute manifestation quantique à grande échelle.
 
 ### <font style="color:orange; font-size:1.0em">Grande question : pourquoi la particule choisit-t-elle un état plutôt qu’un autre ?</font>
