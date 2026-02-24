@@ -29,4 +29,4 @@ www.supraconductivité.fr
 Chaîne YouTube : science étonnante
 Conférence de l' Espace des sciences de Rennes
 
-<a href="https://stbourreau.github.io/23fev26/xiii%20les%20ordinateurs%20quantiques.html">← III. Quantification</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> 
+<a href="https://stbourreau.github.io/23fev26/xiii%20les%20ordinateurs%20quantiques.html">← III. Les ordinateurs quantiques</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> 
