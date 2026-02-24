@@ -1,7 +1,7 @@
 ---
 title: "XII. La supraconductivité"
-order: 7
-in_menu: true
+order: 12
+in_menu: false
 ---
 La supraconductivité a été découverte en 1911 par Kammerling Onnes.
 ### <font style="color:orange; font-size:1.0em">Une histoire de métaux</font>

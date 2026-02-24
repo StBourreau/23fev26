@@ -1,7 +1,7 @@
 ---
 title: "VIII. La superposition d’états"
-order: 11
-in_menu: true
+order: 8
+in_menu: false
 ---
 Le principe de superposition s'applique à toutes les ondes, quelle que soit leur nature. Puisqu'un objet quantique se comporte comme une onde, il est aussi concerné.
 La fonction d'onde d'une particule peut être superposée en plusieurs états. L'expérience des deux fentes en fournit la preuve : la fonction d'onde est libre de passer par deux fentes avant d'atteindre l'écran. Elle ne choisit pas et passe par les deux fentes à la fois : c'est en supposant cette superposition de chemins qu'on peut comprendre les interférences.

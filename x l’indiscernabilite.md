@@ -1,7 +1,7 @@
 ---
 title: "X. L’indiscernabilité"
-order: 8
-in_menu: true
+order: 10
+in_menu: false
 ---
 Deux particules quantiques sont non seulement identiques  (même masse, même charge...), mais elles sont également indiscernables. Cela vient du principe d'incertitude qui empêche de connaître à la fois précisément la position et la vitesse d'une particule (cf. chapitre 5). Il est donc impossible de suivre précisément sa trajectoire.
 L'indiscernabilité est une propriété purement quantique qui n'existe pas à notre échelle et est donc difficile à appréhender. Ce n'est pas seulement une ressemblance : si on envoie deux particules indiscernables l'une contre l'autre, après le choc, on est incapable de dire laquelle est à gauche, laquelle est à droite.

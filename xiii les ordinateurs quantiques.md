@@ -1,7 +1,7 @@
 ---
 title: "XIII. Les ordinateurs quantiques"
-order: 5
-in_menu: true
+order: 13
+in_menu: false
 ---
 Un ordinateur classique gère des bits grâce à deux modèles de portes logiques : la porte NOT qui change la valeur du bit et la porte NAND qui reçoit deux bits et retourne 0 si et seulement si les deux bits valent 1. Ces deux portes permettent de réaliser tous les calculs.
 Les microprocesseurs actuels contiennent près d’un milliard de transistors nanométriques interconnectés capables de gérer des signaux électriques avec fiabilité toutes les nanosecondes.

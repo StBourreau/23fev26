@@ -1,7 +1,7 @@
 ---
 title: "XI. Les gaz de fermions et de bosons"
-order: 9
-in_menu: true
+order: 11
+in_menu: false
 ---
 ### <font style="color:orange; font-size:1.0em">Comment décrire une foule</font>
 À la fin du XIXe siècle, Maxwell et Boltzmann ont l'idée de décrire les mouvements des molécules des gaz via des statistiques et non l'étude des comportements individuels. En procédant ainsi, ils ont démontré l'équation des gaz parfaits.

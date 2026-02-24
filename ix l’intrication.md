@@ -1,7 +1,7 @@
 ---
 title: "IX. L’intrication"
-order: 10
-in_menu: true
+order: 9
+in_menu: false
 ---
 De nouveaux phénomènes apparaissent quand on considère plusieurs particules.
 A condition de les préparer, il est possible de lier les comportements de deux particules : c'est l'intrication. Cette forme d'enchevêtrement est parfaitement prévue par le calcul et vérifiée par l'expérience, mais elle échappe à notre intuition, plus encore que ce qui précède.

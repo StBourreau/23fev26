@@ -1,7 +1,7 @@
 ---
 title: "Conclusion"
-order: 6
-in_menu: true
+order: 14
+in_menu: false
 ---
 La seconde révolution quantique vise à développer des technologies à partir de l'intrication et de la superposition d'états, comme les ordinateurs du chapitre précédent.
  Les diamants à centre MV (ou centre azote-lacune) servent déjà à mesurer le magnétisme, la pression ou à faire de l'imagerie médicale.

@@ -1,7 +1,7 @@
 ---
 title: "VII. Mesure et décohérence"
-order: 12
-in_menu: true
+order: 7
+in_menu: false
 ---
 La mesure est le sujet le plus épineux de la théorie quantique.
 ### <font style="color:orange; font-size:1.0em">La mesure en trois temps</font> :

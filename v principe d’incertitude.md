@@ -1,7 +1,7 @@
 ---
 title: "V. Principe d’incertitude"
-order: 14
-in_menu: true
+order: 5
+in_menu: false
 ---
 >Note personnelle : il faut entendre la vitesse, dont il est question dans ce chapitre comme un vecteur, c’est-à-dire combinant une direction et un rapport d/t. 
 
