@@ -30,4 +30,8 @@ Le taux d'erreur décroît ( 30 % en 2003 pour 0,1 % en 2025).
 La programmation progresse : des mathématiciens et des physiciens apprennent la quantique pour développer des algorithmes.
 Les états et les industriels investissent.
 Cependant, les ordinateurs quantiques actuels ne servent à rien. Pour qu'ils deviennent utiles, il faut attendre le million de qbits et réduire le taux d'erreur.
-Pour l'académie des sciences américaine, la faisabilité d'un ordinateur quantique à grande échelle n'est pas établie. Les obstacles sont autant au niveau technologique qu'au niveau de la physique fondamentale : il faut apprendre à apprivoiser les bizarreries quantiques. 
+Pour l'académie des sciences américaine, la faisabilité d'un ordinateur quantique à grande échelle n'est pas établie. Les obstacles sont autant au niveau technologique qu'au niveau de la physique fondamentale : il faut apprendre à apprivoiser les bizarreries quantiques.
+
+[https://stbourreau.github.io/23fev26/xii%20la%20supraconductivite.html](https://stbourreau.github.io/23fev26/i%20dualite%20onde–particules%20–%20ii%20fonction%20d’onde%20ψ%20-psi-.html)
+
+<a href="https://stbourreau.github.io/23fev26/xii%20la%20supraconductivite.html">← XII. La supraconductivité</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/iii%20quantification.html">Conclusion →</a> 
