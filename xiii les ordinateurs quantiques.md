@@ -33,4 +33,4 @@ Cependant, les ordinateurs quantiques actuels ne servent à rien. Pour qu'ils de
 Pour l'académie des sciences américaine, la faisabilité d'un ordinateur quantique à grande échelle n'est pas établie. Les obstacles sont autant au niveau technologique qu'au niveau de la physique fondamentale : il faut apprendre à apprivoiser les bizarreries quantiques.
 
 
-<a href="https://stbourreau.github.io/23fev26/xii%20la%20supraconductivite.html">← XII. La supraconductivité</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/iii%20quantification.html">Conclusion →</a> 
+<a href="https://stbourreau.github.io/23fev26/xii%20la%20supraconductivite.html">← XII. La supraconductivité</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/conclusion.html">Conclusion →</a> 
