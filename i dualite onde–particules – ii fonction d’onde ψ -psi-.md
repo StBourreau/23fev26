@@ -24,7 +24,7 @@ Si on fournit à l’équation les caractéristiques de la situation présente, 
 
 L’équation est très bien accueillie par les scientifiques, mais des questions se posent. Que représente le symbole Ψ ? Ψ est-elle vraiment une onde ? Si Ψ est une onde, qu’est-ce qui vibre ou oscille pour un électron, qu’est-ce qui joue le rôle joué par l’eau ou l’air pour les vagues et les ondes sonores ?
 
-Autre problème : Schrödinger propose que l’onde se réduit soudainement et deviennent particules lorsqu’on la mesure. Que signifie soudainement ? L’onde peut-elle se contracter instantanément ? Cela violerait le principe fondamental de la relativité d’Einstein, qui dicte que rien ne va plus vite que la lumière.
+Autre problème : Schrödinger propose que l’onde se réduit soudainement et devient particule lorsqu’on la mesure. Que signifie soudainement ? L’onde peut-elle se contracter instantanément ? Cela violerait le principe fondamental de la relativité d’Einstein, qui dicte que rien ne va plus vite que la lumière.
 
 En 1926, Max Born, (qui a introduit dans la quantique l’utilisation des matrices et des vecteurs, nouveaux outils mathématiques de l’époque) entrevoit que Ψ n’est pas juste une onde, mais décrit une probabilité de présence. La quantique plonge dans la probabilité et l’indéterminisme. Mais pas dans le flou : il faut bien choisir ce que l’on veut déterminer. Elle permet de calculer avec une précision remarquable la forme de la fonction d’onde et ce qu’elle devient au cours du temps. C’est l’étape de la mesure qui fait intervenir le hasard. Si à l’inverse on veut déterminer l’énergie de la particule, sans se soucier de l’endroit où elle se trouve, le calcul fournit une valeur d’une formidable précision.
 
