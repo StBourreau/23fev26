@@ -22,7 +22,8 @@ Pour que cela se produise, il faudrait que tous nos atomes se mettent « à l�
 
 ### <font style="color:orange; font-size:1.0em">Grande question : pourquoi la particule choisit-t-elle un état plutôt qu’un autre ?</font>
 En physique classique, le hasard n’existe pas, même pour un lancer de dé. En quantique, le hasard semble intrinsèque, au point de remettre en cause la notion de causalité. 
-Les trois théories les plus célèbres pour expliquer ce « choix d’état au hasard » : 
+Les trois théories les plus célèbres pour expliquer ce « choix d’état au hasard » :
+
 **1. L’interprétation de Copenhague (Niels Bohr)**
 le monde est divisé en deux : un côté quantique et un côté classique. Avant que la particule ne soit mesurée on peut la représenter par une fonction d’onde _imaginée_ par les physiciens, sans réalité en soi. On peut utiliser tous les formalismes requis (probabilités, vecteurs d’état, matrices…) : ce sont des outils efficaces mais qui ne disent rien de la réalité. Suite à la mesure, les propriétés de la particule se trouvent bien défini, et elle devient subitement réelle tangible.      Cette approche évite de penser le réel quantique. Adoptée par une bonne part des physiciens, elle ne dit rien de la place de la frontière entre quantique et classique.
 
