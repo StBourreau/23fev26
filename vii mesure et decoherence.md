@@ -3,7 +3,6 @@ title: "VII. Mesure et décohérence"
 order: 12
 in_menu: true
 ---
-## <font style="color:green; font-size:1.0em">VII. Mesure et décohérence</font>
 La mesure est le sujet le plus épineux de la théorie quantique.
 ### <font style="color:orange; font-size:1.0em">La mesure en trois temps</font> :
 1. **La fonction d’onde**.  
@@ -17,8 +16,8 @@ Lors d’une mesure, la décohérence vient de l’interaction de la particule a
 Serge Haroche a montré que plus les objets avec lesquels la particule interagit sont nombreuses, plus la déshérence a lieu rapidement.
 
 Le moindre désordre ou la moindre interaction suffisent à provoquer la décohérence : variation de champ électrique, modification de l’environnement, excitation par des lasers (Wineland en 2000).
-### <font style="color:orange; font-size:1.0em">Pourquoi nous ne sommes pas quantiques</font>
-> Pour que cela se produise, il faudrait que tous nos atomes se mettent « à l’unisson » sous forme d’onde. Cela n’arrive pas car la chaleur produite par notre corps, son grand nombre d’atomes, et leurs mouvements incessants provoquent la décohérence et empêchent toute manifestation quantique à grande échelle.
+>### <font style="color:orange; font-size:1.0em">Pourquoi nous ne sommes pas quantiques</font>
+Pour que cela se produise, il faudrait que tous nos atomes se mettent « à l’unisson » sous forme d’onde. Cela n’arrive pas car la chaleur produite par notre corps, son grand nombre d’atomes, et leurs mouvements incessants provoquent la décohérence et empêchent toute manifestation quantique à grande échelle.
 ### <font style="color:orange; font-size:1.0em">Grande question : pourquoi la particule choisit-t-elle un état plutôt qu’un autre ?</font>
 En physique classique, le hasard n’existe pas, même pour un lancer de dé. En quantique, le hasard semble intrinsèque, au point de remettre en cause la notion de causalité. 
 Les trois théories les plus célèbres pour expliquer ce « choix d’état au hasard » : 
