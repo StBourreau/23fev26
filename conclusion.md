@@ -22,11 +22,12 @@ Nb : dans le magazine, il y a aussi une bibliographie.
 
 Vidéos sur la quantique (notamment des actualités) sont publiées par Julien Bobroff sur YouTube et les réseaux sociaux.
 Son équipe a créé 3 sites Internet avec des ressources gratuites :
-www.toutestquantique.fr
-www.vulgarisation.fr
-www.supraconductivité.fr
+- www.toutestquantique.fr
+- www.vulgarisation.fr
+- www.supraconductivité.fr
 
-Chaîne YouTube : science étonnante
-Conférence de l' Espace des sciences de Rennes
+Chaînes YouTube : 
+- <a href="https://www.youtube.com/@ScienceEtonnante/search?query=quantique">Science étonnante</a>
+- <a href="https://www.espace-sciences.org/recherche?spammaster_extra_field_1=&spammaster_extra_field_2=&combine=quantique&categorie=3082">Conférences de l' Espace des sciences de Rennes</a>
 
 <a href="https://stbourreau.github.io/23fev26/xiii%20les%20ordinateurs%20quantiques.html">← XIII. Les ordinateurs quantiques</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> 
