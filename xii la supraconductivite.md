@@ -36,3 +36,5 @@ En 2017, l’équipe allemande de Mikhail Eremets solidifie du sulfure d’hydro
 En 2018 à Washington, l’équipe de Russel Hemley remplace leurs souffre par du lanthane. La pression obtenue approche 2 millions de bar et la supraconductivité apparaît à –10°C.
 Les applications sont inenvisageables du fait des pressions considérées. On cherche désormais à stabiliser ces solides hydrogénés à des pressions moindres.
 Une équipe française du CEA, du CNRS et du synchrotron SOLEIL est parvenue à stabiliser de l’hydrogène métallique. Reste à savoir si ce matériau sera supraconducteur à haute température. 
+
+<a href="https://stbourreau.github.io/23fev26/xi%20les%20gaz%20de%20fermions%20et%20de%20bosons.html">← XI. Les gaz de fermions et de bosons</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/xiii%20les%20ordinateurs%20quantiques.html">Les ordinateurs quantiques →</a> 
