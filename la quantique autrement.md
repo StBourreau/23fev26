@@ -12,7 +12,7 @@ Julien Bobrof
 Illustrations de Camille Delbard (copine de Simon Chapillon)
 
 
-<a href="https://stbourreau.github.io/23fev26/i%20dualite%20onde–particules%20–%20ii%20fonction%20d’onde%20ψ%20-psi-.html">I. Dualité onde-particules - II. Fonction d'onde 4 (psi)</a>
+<a href="https://stbourreau.github.io/23fev26/i%20dualite%20onde–particules%20–%20ii%20fonction%20d’onde%20ψ%20-psi-.html">I. Dualité onde-particules - II. Fonction d'onde Ψ (psi)</a>
 
 <a href="https://stbourreau.github.io/23fev26/iii%20quantification.html">III. Quantification</a>
 
