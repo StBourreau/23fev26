@@ -1,7 +1,7 @@
 ---
 title: "I. Dualité onde–particules – II. Fonction d’onde Ψ (psi)"
 order: 2
-in_menu: true
+in_menu: false
 ---
 ## <font style="color:green; font-size:1.0em">I. Dualité onde–particules</font>
 Tout corps, tant qu’il est suffisamment petit (un électron, un photon, un atome, une molécule… ) est quantique : il semble occuper un volume brumeux et impalpable, mais dès qu’on le mesure, il se réduit soudain en une particule. Cette zone floue est la fonction d’onde. L’onde se réduit en particule au moment de la mesure.

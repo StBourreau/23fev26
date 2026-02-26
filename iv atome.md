@@ -1,7 +1,7 @@
 ---
 title: "IV. Atome"
 order: 4
-in_menu: true
+in_menu: false
 ---
 Il n’y a pas d’accord sur l’illustration permettant de rendre compréhensible un atome.
 
