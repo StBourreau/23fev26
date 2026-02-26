@@ -1,7 +1,7 @@
 ---
 title: "VI. Effet tunnel"
 order: 6
-in_menu: false
+in_menu: true
 ---
 L’énergie est la quantité qui renseigne le mieux sur le devenir d’un objet. Elle permet de quantifier toute transformation. Par exemple un déplacement, une température qui augmente, un corps qui se transforme… Un corps qui a beaucoup d’énergie est capable de provoquer de grands changements. Une autre façon d’estimer l’énergie d’un objet est de regarder à quel point il est capable de modifier la trajectoire d’un autre objet.
 
