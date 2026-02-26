@@ -18,6 +18,9 @@ Si on excite cet atome avec un rayon laser bien choisi, l’électron saute soud
 <img
   src="images/Trois representations de l'atome.png"
   alt="Trois représentations de l'atome d'hydrogène"
+  display= "block"
+  margin-left= "auto"
+  margin-right="auto"
   width="400"/>
 
 Au début de la quantique, le modèle planétaire (ici pour un atome d'hydrogène) a dû être abandonné au profit d'un modèle à orbites, le modèle de Bohr. Puis, celui-ci a laissé place à la vision actuelle de l'atome dans laquelle l'électron occupe tout un volume autour du noyau avec sa fonction d'onde quantique.
