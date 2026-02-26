@@ -29,7 +29,7 @@ Toutes les formes possibles des électrons peuvent être calculées, de la plus 
 Ces fonctions d’ondes archétypales sont appelées des orbitales. Elles sont regroupées en grandes familles : les sphères nommées « s », les double-lobes appelés « p », les quadruples-lobes appelés « d ». Ces volumes constituent le seul et unique dictionnaire permettant de concevoir tous les atomes. 
 
 Chaque atome possède un numéro atomique égal au nombre d’électrons et donc au nombre de protons de son noyau. Pour construire n’importe quel atome, il faut suivre une règle unique : piocher les fonctions d’onde de ses électrons dans le catalogue fourni par l’équation de Schrödinger, en partant de la plus basse énergie et en augmentant d’un cran tous les deux électrons pour respecter le principe d’exclusion de Pauli (deux électrons de spins différents peuvent avoir la même forme, mais pas plus). Les électrons ne s’empilent pas les uns à côté des autres ou les uns au-dessus des autres comme les couches d’un oignon. Les électrons se mettent les uns dans les autres. Ils s’interpénètrent au même endroit comme des nuages qui se mélangeraient. Voilà pourquoi l’atome est un enfer à représenter.
-Exemple : l’atome de carbone
+
 Voici finalement ce à quoi ressemble véritablement un atome, ici l'atome de carbone.
 Ses 6 électrons s'interpénètrent les uns les autres, avec différentes formes d'orbitales.
 
