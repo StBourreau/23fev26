@@ -3,6 +3,12 @@ title: "IV. Atome"
 order: 4
 in_menu: true
 ---
+---
+created: 24/02/2026
+updated: 2023-09-16T11:04
+---
+## <font style="color:green; font-size:1.0em">IV. Atome</font>
+
 Il n’y a pas d’accord sur l’illustration permettant de rendre compréhensible un atome.
 
 **Le modèle solaire est à oublier :** les électrons ne peuvent tourner autour du noyau comme des planètes autour d’une étoile. Si c’était le cas, ils perdraient leur énergie par radiation puisqu’ils sont chargés électriquement et finiraient par tomber sur le noyau. Par ailleurs les trajectoires seraient perturbées par les chocs qui se produiraient entre les électrons. De plus ce modèle ne permet pas d'expliquer que les atomes aient le même comportement physique et chimique, d’où qu’ils viennent dans l’univers, avec exactement les mêmes trajectoires d'électrons autour du noyau.
@@ -50,6 +56,6 @@ Le catalogue limité de formes d’électrons autorise une variété d’atomes 
 
 Si on cherche à mesurer un électron pour vérifier la forme de son orbitale, il se réduit soudainement en un point.
 <div style="text-align: center">
-<a href="https://stbourreau.github.io/23fev26/iii%20quantification">← III. Quantification</a>
- — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — 
-<a href="https://stbourreau.github.io/23fev26/v%20principe%20d’incertitude.html"> V. Principe d'incertitude →</a> </div> 
+<a href="iii%20quantification">← III. Quantification</a>
+ — <a href="la%20quantique%20autrement.html">Sommaire</a> — 
+<a href="v%20principe%20d’incertitude.html"> V. Principe d'incertitude →</a> </div> 
