@@ -29,4 +29,8 @@ Une fois un atome repéré, il est possible de le déplacer en lui envoyant une 
 
 Pour démontrer la puissance du microscope à effet tunnel, le CNRS a organisé, en 2017 à Toulouse, une course de voitures nanométriques : [Nanocar Race à Toulouse en 2017](https://www.youtube.com/c/NanoCarRace)
 
-<a href = "https://stbourreau.github.io/23fev26/v%20principe%20d’incertitude.html">← V. Principe d'incertitude</a> — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href = "https://stbourreau.github.io/23fev26/vii%20mesure%20et%20decoherence.html">VII. Mesure et décohérence→</a> 
+<div style="text-align: center">
+<a href = "v%20principe%20d’incertitude.html">← V. Principe d'incertitude</a> — 
+<a href="la%20quantique%20autrement.html">Sommaire</a> — 
+<a href = "vii%20mesure%20et%20decoherence.html">VII. Mesure et décohérence→</a> 
+</div> 
