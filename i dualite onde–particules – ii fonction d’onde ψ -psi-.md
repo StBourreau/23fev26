@@ -28,5 +28,5 @@ Autre problème : Schrödinger propose que l’onde se réduit soudainement et d
 
 En 1926, Max Born, (qui a introduit dans la quantique l’utilisation des matrices et des vecteurs, nouveaux outils mathématiques de l’époque) entrevoit que Ψ n’est pas juste une onde, mais décrit une probabilité de présence. La quantique plonge dans la probabilité et l’indéterminisme. Mais pas dans le flou : il faut bien choisir ce que l’on veut déterminer. Elle permet de calculer avec une précision remarquable la forme de la fonction d’onde et ce qu’elle devient au cours du temps. C’est l’étape de la mesure qui fait intervenir le hasard. Si à l’inverse on veut déterminer l’énergie de la particule, sans se soucier de l’endroit où elle se trouve, le calcul fournit une valeur d’une formidable précision.
 <div style="text-align: center">
-<a href=""la%20quantique%20autrement.html">Sommaire</a> — <a href=""iii%20quantification.html">III. Quantification →</a> 
+<a href="la%20quantique%20autrement.html">Sommaire</a> — <a href="iii%20quantification.html">III. Quantification →</a> 
 </div> 
