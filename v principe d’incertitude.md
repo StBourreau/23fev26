@@ -1,7 +1,7 @@
 ---
 title: "V. Principe d’incertitude"
 order: 5
-in_menu: false
+in_menu: true
 ---
 >Note personnelle : il faut entendre la vitesse, dont il est question dans ce chapitre comme un vecteur, c’est-à-dire combinant une direction et un rapport d/t. 
 
@@ -32,6 +32,8 @@ Lors de l’effondrement, les électrons ont de moins en moins de place et devie
 - **Le vide n’est pas vide**  
 Le principe d’incertitude s’applique aussi à l’énergie et au temps : pendant des intervalles de temps très courts, l’énergie devient incertaine. Elle se met à fluctuer, tantôt minuscule , tantôt gigantesque. Cette étrange énergie fantôme apparaît et disparaît en permanence, même dans le vide : c’est la fluctuation quantique du vide, démontrée expérimentalement. Quand on approche deux plaques de métal dans le vide, à quelques micromètres l’une de l’autre, on mesure qu’elles s’attirent très légèrement. L’attraction est 1 million de fois plus faible que celle due à la gravité, elle-même très faible, mais elle existe bien. C’est la force de Casimir.
 
-<a href="https://stbourreau.github.io/23fev26/iv%20atome.html">← IV. Atome</a>
- — <a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — 
-<a href="https://stbourreau.github.io/23fev26/vi%20effet%20tunnel.html"> VI. Effet tunnel →</a> 
+<div style="text-align: center">
+<a href="iv%20atome.html">← IV. Atome</a>
+ — <a href="la%20quantique%20autrement.html">Sommaire</a> — 
+<a href="vi%20effet%20tunnel.html"> VI. Effet tunnel →</a> 
+</div> 
