@@ -1,7 +1,7 @@
 ---
 title: "I. Dualité onde–particules – II. Fonction d’onde Ψ (psi)"
 order: 2
-in_menu: false
+in_menu: true
 ---
 ## <font style="color:green; font-size:1.0em">I. Dualité onde–particules</font>
 Tout corps, tant qu’il est suffisamment petit (un électron, un photon, un atome, une molécule… ) est quantique : il semble occuper un volume brumeux et impalpable, mais dès qu’on le mesure, il se réduit soudain en une particule. Cette zone floue est la fonction d’onde. L’onde se réduit en particule au moment de la mesure.
@@ -27,5 +27,6 @@ L’équation est très bien accueillie par les scientifiques, mais des question
 Autre problème : Schrödinger propose que l’onde se réduit soudainement et devient particule lorsqu’on la mesure. Que signifie soudainement ? L’onde peut-elle se contracter instantanément ? Cela violerait le principe fondamental de la relativité d’Einstein, qui dicte que rien ne va plus vite que la lumière.
 
 En 1926, Max Born, (qui a introduit dans la quantique l’utilisation des matrices et des vecteurs, nouveaux outils mathématiques de l’époque) entrevoit que Ψ n’est pas juste une onde, mais décrit une probabilité de présence. La quantique plonge dans la probabilité et l’indéterminisme. Mais pas dans le flou : il faut bien choisir ce que l’on veut déterminer. Elle permet de calculer avec une précision remarquable la forme de la fonction d’onde et ce qu’elle devient au cours du temps. C’est l’étape de la mesure qui fait intervenir le hasard. Si à l’inverse on veut déterminer l’énergie de la particule, sans se soucier de l’endroit où elle se trouve, le calcul fournit une valeur d’une formidable précision.
-
-<a href="https://stbourreau.github.io/23fev26/la%20quantique%20autrement.html">Sommaire</a> — <a href="https://stbourreau.github.io/23fev26/iii%20quantification.html">III. Quantification →</a> 
+<div style="text-align: center">
+<a href=""la%20quantique%20autrement.html">Sommaire</a> — <a href=""iii%20quantification.html">III. Quantification →</a> 
+</div> 
