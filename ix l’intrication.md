@@ -37,7 +37,7 @@ En 2014, Gabriela Barreto Lemos de l’université de Vienne et son équipe envo
 
 L’utilisation la plus célèbre de l’intrication est l’ordinateur quantique constitué de centaines de particules intriquées et superposées à la fois. *cf.*  le chapitre XIII
 
-<div style="text-aligne:center">
+<div style="text-align:center">
 <a href = "viii%20la%20superposition%20d’etats.html">← VIII. La superposition d'états</a> — <a href="la%20quantique%20autrement.html">Sommaire</a> — <a href = "x%20l’indiscernabilite.html">
 X. L'indiscernabilité → </a>
-</dic> 
+</div> 
