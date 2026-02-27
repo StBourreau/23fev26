@@ -4,10 +4,6 @@ order: 4
 in_menu: true
 ---
 ---
-created: 24/02/2026
-updated: 2023-09-16T11:04
----
-## <font style="color:green; font-size:1.0em">IV. Atome</font>
 
 Il n’y a pas d’accord sur l’illustration permettant de rendre compréhensible un atome.
 
