@@ -3,14 +3,17 @@ title: "La quantique autrement"
 order: 1
 in_menu: true
 ---
-Julien Bobrof
+<div style="text-align: center">
+Résumé et notes de lecture de
 <img
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
+  style= "display:block; margin-left:auto;  margin-right:auto" 
   width="150" />
+par Julien Bobrof
 
 Illustrations de Camille Delbard (copine de Simon Chapillon)
-
+</div>
 
 <a href="https://stbourreau.github.io/23fev26/i%20dualite%20onde–particules%20–%20ii%20fonction%20d’onde%20ψ%20-psi-.html">I. Dualité onde-particules - II. Fonction d'onde Ψ (psi)</a>
 
