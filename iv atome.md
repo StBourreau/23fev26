@@ -1,7 +1,7 @@
 ---
 title: "IV. Atome"
 order: 4
-in_menu: false
+in_menu: true
 ---
 Il n’y a pas d’accord sur l’illustration permettant de rendre compréhensible un atome.
 
@@ -37,6 +37,7 @@ Ses 6 électrons s'interpénètrent les uns les autres, avec différentes formes
 <img
   src="images/Représentation atome carbone.png"
   alt="Représentation de l'atome de carbone"
+  style= "display:block; margin-left:auto;  margin-right:auto" 
   width="400"/>
 
 L’atome d’or comporte 79 électrons. Il faudrait représenter 79 orbitales à peu près de la même taille les unes dans les autres.
