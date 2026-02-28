@@ -1,7 +1,8 @@
 ---
 title: "III. Quantification"
 order: 3
-in_menu: false
+in_menu: true
+---
 ---
 Tout objet quantique se comporte comme une onde tant qu’il n’est pas mesuré.
 #### <font style="color:orange; font-size:1.0em">Prison à électrons</font>
