@@ -1,7 +1,7 @@
 ---
 title: "IX. L’intrication"
 order: 9
-in_menu: true
+in_menu: false
 ---
 ---
 De nouveaux phénomènes apparaissent quand on considère plusieurs particules.

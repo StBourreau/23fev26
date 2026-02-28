@@ -1,7 +1,7 @@
 ---
 title: "VIII. La superposition d’états"
 order: 8
-in_menu: true
+in_menu: false
 ---
 ---
 Le principe de superposition s'applique à toutes les ondes, quelle que soit leur nature (sonore, lumineuse, mécanique…). Puisqu'un objet quantique se comporte comme une onde, il est aussi concerné.
