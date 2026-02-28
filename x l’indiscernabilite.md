@@ -40,24 +40,14 @@ On a parlé essentiellement de photons et d'électrons mais il existe d'autres p
 
 Les prédictions du modèle standard sont vérifiées expérimentalement dans des accélérateurs de particules (comme le LHC du CERN)
 ### <font style="color:orange; font-size:1.0em">Petit bestiaire des particules élémentaires.</font>
-
-
-<figure>
-<p><img
-src=" images/Particules élémentaires.jpeg"
-alt="Tableau des particules élémentaires : le modèle standard"
-style="display:block;margin-left:auto; margin-right:auto"
-width="400"/>
-<figcaption>Ce tableau résume toutes les particules élémentaires connues à ce jour.</figcaption>
-</figure>
-
+Le tableau suivant présente toutes les particules élémentaires connues à ce jour
 
 <img
 src=" images/Particules élémentaires.jpeg"
 alt="Tableau des particules élémentaires : le modèle standard"
 style="display:block;margin-left:auto; margin-right:auto"
 width="400"/>
-Ce tableau résume toutes les particules élémentaires connues à ce jour.
+.
 
 Les particules qui composent la matière ont toutes une masse et un spin égal à 1/2 : ce sont des fermions. Parmi elles, les **6 quarks** (up,charmed, top, down, strange et bottom) sont les plus massifs. Les **6 leptons** (électron, muon, tau,  et les neutrinos correspondants) sont beaucoup plus légers. 
 Pour fabriquer la matière, il faut réaliser des assemblages. Les quarks s'assemblent toujours par trois : un quark up et deux down forment un neutron ; pour un proton, il faut un quark down et deux up.
