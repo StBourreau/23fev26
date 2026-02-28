@@ -40,7 +40,7 @@ On a parlé essentiellement de photons et d'électrons mais il existe d'autres p
 
 Les prédictions du modèle standard sont vérifiées expérimentalement dans des accélérateurs de particules (comme le LHC du CERN)
 ### <font style="color:orange; font-size:1.0em">Petit bestiaire des particules élémentaires.</font>
-Le tableau suivant présente toutes les particules élémentaires connues à ce jour
+Le tableau suivant présente toutes les particules élémentaires connues à ce jour.
 
 <img
 src=" images/Particules élémentaires.jpeg"
