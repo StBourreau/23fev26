@@ -8,7 +8,7 @@ in_menu: true
 
 Le principe d’incertitude, découvert en 1927 par Werner Heisenberg oblige à un choix : soit on mesure finement la vitesse, mais dans ce cas la position est floue ; soit on mesure finement la position, mais alors la vitesse devient imprécise. L’imprécision engendrée dépend de la taille des objets : pour un objet de quelques centaines de grammes, l’incertitude porterait sur le dix-septième chiffre après la virgule de la vitesse et de la position. Cela n’aurait aucun effet perceptible. En revanche, si on veut trouver la position d’un électron à 10 nm près, alors l’imprécision sur la vitesse est gigantesque, de l’ordre de 100 km/s.
 
-Le principe d’incertitude suggère que l’ordre dans lequel on effectue la mesure compte. Si la position est mesurée en premier avec une grande précision, alors la vitesse devient imprécise et vice versa. Les mesures semblent affecter par la chronologie des évènements.
+Le principe d’incertitude suggère que l’ordre dans lequel on effectue la mesure compte. Si la position est mesurée en premier avec une grande précision, alors la vitesse devient imprécise et vice versa. Les mesures semblent affectées par la chronologie des événements.
 
 Ce principe remet en cause l’idée même de trajectoire pour les objets quantiques, puisque dès qu’on mesure la position, la vitesse est aussitôt affectée.
 
