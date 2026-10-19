@@ -18,13 +18,13 @@ L'équipe de Markus Arndt et d'Anton Zeilinger a démontré le principe d’ince
 
 Puis les chercheurs réduisent petit à petit la fente. Les impacts ne dessinent alors plus un rectangle et tandis que l’orifice se referme, la figure à l’écran, elle, s’étale. Pour un rectangle 50 fois plus étroit qu’au départ, l’impact des particules s’étale 15 fois plus. C’est la preuve du principe d’incertitude : quand l’ouverture est suffisamment petite, on sait précisément où passe la molécule, on connaît donc sa position. Sa vitesse devient alors incertaine. Voilà pourquoi elle part aussitôt dans toutes les directions et s’étale sur l’écran de détection.
 
-Le principe d’incertitude ne signifie pas que la physique quantique et le règne de un certain œil du fou. Cette discipline est capable d’une précision incroyable si on lui pose des bonnes questions. Eisenberg, à proposer de renommer le principe d’incertitude en principe d’indétermination.
+Le principe d’incertitude ne signifie pas que la physique quantique est le règne de l’incertain ou du flou. Cette discipline est capable d’une précision incroyable si on lui pose les bonnes questions. Eisenberg a a proposé de renommer le principe d’incertitude en principe d’indétermination.
 
 **Quatre conséquences remarquables et utiles du principe d’incertitude.**
 
 - **Rien n’est immobile**  
 Si une particule était immobile, sa position et sa vitesse nulle serait toutes deux parfaitement connues, ce qui violerait le principe. C’est donc impossible. Une particule s’agite toujours un peu ce qui remet en cause notre compréhension du froid.
-Il existe un liquide qui ne gèle jamais : l’hélium. Les petits mouvements idus au principe d’incertitude suffisent à agiter les atomes pour les empêcher de s’organiser en solide.
+Il existe un liquide qui ne gèle jamais : l’hélium. Les petits mouvements dus au principe d’incertitude suffisent à agiter les atomes pour les empêcher de s’organiser en solide.
 - **La taille des atomes**   
 Prenons l’atome d’hydrogène. Si l'onde formée par l’électron était très proche du noyau, on connaîtrait sa position avec précision puisque le noyau est très petit. Sa vitesse deviendrait alors très incertaine et l’électron pourrait aller si vite qu’il pourrait s’échapper complètement de l’atome. Si à l’inverse l’électron est très étendu, il n’est plus assez retenu électriquement par le noyau et s’échappe aussi. La taille théorique pour que l’électron ne s’échappe pas est  de l’ordre de quelques dixièmes de nanomètre. C’est bien la taille des atomes.
 - **La mort du Soleil**   
