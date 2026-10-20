@@ -18,7 +18,7 @@ L'équipe de Markus Arndt et d'Anton Zeilinger a démontré le principe d’ince
 
 Puis les chercheurs réduisent petit à petit la fente. Les impacts ne dessinent alors plus un rectangle et tandis que l’orifice se referme, la figure à l’écran, elle, s’étale. Pour un rectangle 50 fois plus étroit qu’au départ, l’impact des particules s’étale 15 fois plus. C’est la preuve du principe d’incertitude : quand l’ouverture est suffisamment petite, on sait précisément où passe la molécule, on connaît donc sa position. Sa vitesse devient alors incertaine. Voilà pourquoi elle part aussitôt dans toutes les directions et s’étale sur l’écran de détection.
 
-Le principe d’incertitude ne signifie pas que la physique quantique est le règne de l’incertain ou du flou. Cette discipline est capable d’une précision incroyable si on lui pose les bonnes questions. Eisenberg a a proposé de renommer le principe d’incertitude en principe d’indétermination.
+Le principe d’incertitude ne signifie pas que la physique quantique est le règne de l’incertain ou du flou. Cette discipline est capable d’une précision incroyable si on lui pose les bonnes questions. Eisenberg a proposé de renommer le principe d’incertitude en principe d’indétermination.
 
 **Quatre conséquences remarquables et utiles du principe d’incertitude.**
 
